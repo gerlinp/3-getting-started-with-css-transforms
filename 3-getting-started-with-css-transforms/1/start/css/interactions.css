@@ -33,7 +33,7 @@ img {
 }
 
 img:hover {
-	transform: translate(50%);
+	transform: rotate(-5deg) scale(1.1);
 }
 /* -- Row 2 --------- */
 .photo img {
@@ -67,8 +67,12 @@ img:hover {
 /* -- Logo ---------- */
 
 .logo:hover {
-	transform: rotate(-20deg)
+	transform: rotate(-20deg);
+	
 }
+
+
+
 
 
 
