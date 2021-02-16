@@ -26,6 +26,8 @@
   Image Transforms & Transitions
 ==================================== */
 
+
+
 /* -- Row 1 --------- */
 
 img {
@@ -33,7 +35,7 @@ img {
 }
 
 img:hover {
-	transform: rotate(-5deg);
+	transform: skewY(10deg);
 }
 /* -- Row 2 --------- */
 
