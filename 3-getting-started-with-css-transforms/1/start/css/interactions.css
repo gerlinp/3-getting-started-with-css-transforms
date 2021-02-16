@@ -28,7 +28,9 @@
 
 /* -- Row 1 --------- */
 
-
+img {
+	transform: rotate(-90deg);
+}
 
 /* -- Row 2 --------- */
 
